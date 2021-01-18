@@ -1,0 +1,30 @@
+.single {
+    border: 1px;
+    border-style: solid;
+    flex-direction: column;
+    width:250px;
+    border-spacing: 2px;
+    min-height: 386px;
+}
+
+.title-block {
+    text-align: center;
+}
+
+.imgSlot {
+    width:100%;
+    text-align: center;
+}
+.image {
+    width:auto;
+    height:250px;
+}
+.beerList {
+    display:flex;
+    text-align:center;
+    flex-wrap: wrap;
+}
+
+a, u {
+    text-decoration: none;
+}
